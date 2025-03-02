@@ -37,6 +37,18 @@ A list of things I like.
 
 [The Journal of Light Construction](https://www.jlconline.com/)
 
+[Building Science Corporation](https://buildingscience.com/)
+
 ## Tools
 
 [pure JS WiFi QR Code Generator](https://qifi.org/)
+
+[curlconverter](https://curlconverter.com/)
+
+## Weather
+
+[Weather Spark](https://weatherspark.com/)
+
+## Misc Technology
+
+[KDnuggets](https://www.kdnuggets.com/)
