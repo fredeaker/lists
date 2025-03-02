@@ -7,7 +7,7 @@ A list of things I like.
 [Planetarium - Squarepusher](https://open.spotify.com/track/2jbN3V7wWURrSI5awvQfyY)
 
 ## Podcasts
-### Philosophy
+**Philosophy**
 [Overthink](https://overthinkpodcast.com/)
 
 ## Art
