@@ -17,5 +17,12 @@ A list of things I like.
 
 [New Books Network, Indian Religions](https://newbooksnetwork.com/category/religion-faith/hindu-studies)
 
-## Websites and Newletters
+## Websites and Newsletters
+
+**Inspiration**
+
 [The Marginalian](https://www.themarginalian.org/)
+
+**Home Improvement**
+
+[The Journal of Light Construction](https://www.jlconline.com/)
