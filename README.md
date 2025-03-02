@@ -13,7 +13,7 @@ A list of things I like.
 
 [Overthink](https://overthinkpodcast.com/)
 
-[History of Philosophy] (https://historyofphilosophy.net/)
+[History of Philosophy](https://historyofphilosophy.net/)
 
 [New Books Network, Indian Religions](https://newbooksnetwork.com/category/religion-faith/hindu-studies)
 
