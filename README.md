@@ -7,6 +7,8 @@ A list of things I like.
 
 [Planetarium - Squarepusher](https://open.spotify.com/track/2jbN3V7wWURrSI5awvQfyY)
 
+[Gotta Understand - Jurassic 5](https://open.spotify.com/track/61YLJHPPRYtbwid1WdZEXM)
+
 ## Podcasts
 
 **Philosophy**
