@@ -23,6 +23,20 @@ A list of things I like.
 
 [The Marginalian](https://www.themarginalian.org/)
 
+[MetaFilter](https://www.metafilter.com/)
+
+**Philosophy**
+
+[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+
+[PhilPapers](https://philpapers.org/)
+
+[The Indian Philosophy Blog](https://indianphilosophyblog.org/)
+
 **Home Improvement**
 
 [The Journal of Light Construction](https://www.jlconline.com/)
+
+## Tools
+
+[pure JS WiFi QR Code Generator](https://qifi.org/)
