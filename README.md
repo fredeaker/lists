@@ -27,6 +27,8 @@ A list of things I like.
 
 [MetaFilter](https://www.metafilter.com/)
 
+[This page is under construction - A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
+
 **Philosophy**
 
 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
